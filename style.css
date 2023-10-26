@@ -1,0 +1,32 @@
+body {background-color: rgb(160, 206, 247);}
+
+h1 {color: rgb(11, 35, 102);}
+h1 {text-align: center;}
+h1 {font-size: 400%;}
+
+h3 {color: rgb(37, 37, 150);}
+h3 {text-align: center;}
+h3 {font-size: 120%;}
+
+h2 {color: rgb(67, 67, 219);}
+h2 {text-align: center;}
+h2 {font-size: 300%;}
+
+p {text-align: center;}
+p {font-size: 100 ;}
+
+#i1 {margin-left: 25%;}
+#i1 {border: 8px solid rgb(11, 35, 102);}
+
+#i2 {margin-left: 25%;}
+#i2 {width: 53%;}
+#i2 {border: 8px solid rgb(11, 35, 102);}
+
+#i3 {margin-left: 25%;}
+#i3 {border: 8px solid rgb(11, 35, 102);}
+
+#i4 {margin-left: 25%;}
+#i4 {border: 8px solid rgb(11, 35, 102);}
+
+#i5 {margin-left: 25%;}
+#i5 {border: 8px solid rgb(11, 35, 102);}
